@@ -1,3 +1,3 @@
 # GoGuest
 
-## CakePHP Framework
+## CodeIgniter Framework
